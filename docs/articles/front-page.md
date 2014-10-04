@@ -78,7 +78,7 @@ For a rough cut list of To Do items, refer to the
 
 There are a couple ways to dive in:
 
-- Check out the [Getting Started](/getting-started/) page on this site
+- Check out the [Getting Started](./getting-started.md) page on this site
 - [Get Lambda Pad from GitHub](https://github.com/gar1t/lambdapad) and build
   the [samples](https://github.com/gar1t/lambdapad/tree/master/samples) and
   [docs](https://github.com/gar1t/lambdapad/tree/master/docs)
